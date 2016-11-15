@@ -1,6 +1,6 @@
 {
   "name": "synactaclientjs",
-  "version": "v1.0.3",
+  "version": "v1.0.4",
   "description": "WebApi",
   "license": "Apache-2.0",
   "main": "src/index.js",
